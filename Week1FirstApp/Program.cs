@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// This is a comment
+
+string myName = "Harry";
+string myLastName = "Potter";
+
+//Console.WriteLine("Hello, World!");
+Console.WriteLine($"Hello, {myName} {myLastName}!");
